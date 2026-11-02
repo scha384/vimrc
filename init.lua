@@ -535,7 +535,7 @@ require("lazy").setup({
   -- require("custom.plugins.barbar"),
   require("custom.plugins.todo-comments"),
   -- require("custom.plugins.gitsigns"),
-  -- require("custom.plugins.which-key"),
+  require("custom.plugins.which-key"),
   -- require("custom.plugins.nvim-ufo"), -- see also nvim-lspconfig
 
   ----------------------
